@@ -21,7 +21,7 @@ add_compile_definitions(XE_DEBUG)
 
 # GLAD
 set(MAJOR 4)
-set(MINOR 6)
+set(MINOR 5)
 set(GLAD_DEBUG OFF CACHE BOOL "" FORCE)
 
 if (APPLE) #Apple has deprecated OpenGL :( 
